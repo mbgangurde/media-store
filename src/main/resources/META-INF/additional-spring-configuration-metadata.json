@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "speaker.name.default",
+    "type": "java.lang.String",
+    "description": "Default speaker name that to be set if there is invlid / no response"
+  },
+  {
+    "name": "speaker.name.api.url",
+    "type": "java.lang.String",
+    "description": "API url for generating random name by appendig GENDER value"
+  },
+  {
+    "name": "valid.file.format",
+    "type": "java.lang.String",
+    "description": "Valid file content type can be mentioned for the validation"
+  }
+]}
